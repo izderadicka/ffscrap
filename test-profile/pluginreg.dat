@@ -1,0 +1,271 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version:0.15:$
+Arch:x86_64-gcc3:$
+
+[PLUGINS]
+IcedTeaPlugin.so:$
+/usr/lib/jvm/java-6-openjdk-amd64/jre/lib/amd64/IcedTeaPlugin.so:$
+:$
+1352222742000:0:5:$
+The <a href="http://icedtea.classpath.org/wiki/IcedTea-Web">IcedTea-Web Plugin</a> executes Java applets.:$
+IcedTea-Web Plugin (using IcedTea-Web 1.2 (1.2-2ubuntu1.3)):$
+34
+0:application/x-java-vm:IcedTea:class,jar:$
+1:application/x-java-applet:IcedTea:class,jar:$
+2:application/x-java-applet;version=1.1:IcedTea:class,jar:$
+3:application/x-java-applet;version=1.1.1:IcedTea:class,jar:$
+4:application/x-java-applet;version=1.1.2:IcedTea:class,jar:$
+5:application/x-java-applet;version=1.1.3:IcedTea:class,jar:$
+6:application/x-java-applet;version=1.2:IcedTea:class,jar:$
+7:application/x-java-applet;version=1.2.1:IcedTea:class,jar:$
+8:application/x-java-applet;version=1.2.2:IcedTea:class,jar:$
+9:application/x-java-applet;version=1.3:IcedTea:class,jar:$
+10:application/x-java-applet;version=1.3.1:IcedTea:class,jar:$
+11:application/x-java-applet;version=1.4:IcedTea:class,jar:$
+12:application/x-java-applet;version=1.4.1:IcedTea:class,jar:$
+13:application/x-java-applet;version=1.4.2:IcedTea:class,jar:$
+14:application/x-java-applet;version=1.5:IcedTea:class,jar:$
+15:application/x-java-applet;version=1.6:IcedTea:class,jar:$
+16:application/x-java-applet;jpi-version=1.6.0_50:IcedTea:class,jar:$
+17:application/x-java-bean:IcedTea:class,jar:$
+18:application/x-java-bean;version=1.1:IcedTea:class,jar:$
+19:application/x-java-bean;version=1.1.1:IcedTea:class,jar:$
+20:application/x-java-bean;version=1.1.2:IcedTea:class,jar:$
+21:application/x-java-bean;version=1.1.3:IcedTea:class,jar:$
+22:application/x-java-bean;version=1.2:IcedTea:class,jar:$
+23:application/x-java-bean;version=1.2.1:IcedTea:class,jar:$
+24:application/x-java-bean;version=1.2.2:IcedTea:class,jar:$
+25:application/x-java-bean;version=1.3:IcedTea:class,jar:$
+26:application/x-java-bean;version=1.3.1:IcedTea:class,jar:$
+27:application/x-java-bean;version=1.4:IcedTea:class,jar:$
+28:application/x-java-bean;version=1.4.1:IcedTea:class,jar:$
+29:application/x-java-bean;version=1.4.2:IcedTea:class,jar:$
+30:application/x-java-bean;version=1.5:IcedTea:class,jar:$
+31:application/x-java-bean;version=1.6:IcedTea:class,jar:$
+32:application/x-java-bean;jpi-version=1.6.0_50:IcedTea:class,jar:$
+33:application/x-java-vm-npruntime:IcedTea::$
+librhythmbox-itms-detection-plugin.so:$
+/usr/lib/mozilla/plugins/librhythmbox-itms-detection-plugin.so:$
+:$
+1346199230000:0:5:$
+This plug-in detects the presence of iTunes when opening iTunes Store URLs in a web page with Firefox.:$
+iTunes Application Detector:$
+1
+0:application/itunes-plugin:::$
+libtotem-narrowspace-plugin.so:$
+/usr/lib/mozilla/plugins/libtotem-narrowspace-plugin.so:$
+:$
+1345744511000:0:5:$
+The <a href="http://www.gnome.org/projects/totem/">Totem</a> 3.0.1 plugin handles video and audio streams.:$
+QuickTime Plug-in 7.6.6:$
+5
+0:video/quicktime:QuickTime video:mov:$
+1:video/mp4:MPEG-4 video:mp4:$
+2:image/x-macpaint:MacPaint Bitmap image:pntg:$
+3:image/x-quicktime:Macintosh Quickdraw/PICT drawing:pict, pict1, pict2:$
+4:video/x-m4v:MPEG-4 video:m4v:$
+libtotem-mully-plugin.so:$
+/usr/lib/mozilla/plugins/libtotem-mully-plugin.so:$
+:$
+1345744511000:0:5:$
+DivX Web Player version 1.4.0.233:$
+DivX® Web Player:$
+1
+0:video/divx:AVI video:divx:$
+libtotem-cone-plugin.so:$
+/usr/lib/mozilla/plugins/libtotem-cone-plugin.so:$
+:$
+1345744511000:0:5:$
+The <a href="http://www.gnome.org/projects/totem/">Totem</a> 3.0.1 plugin handles video and audio streams.:$
+VLC Multimedia Plugin (compatible Totem 3.0.1):$
+21
+0:application/x-vlc-plugin:VLC Multimedia Plugin::$
+1:application/vlc:VLC Multimedia Plugin::$
+2:video/x-google-vlc-plugin:VLC Multimedia Plugin::$
+3:application/x-ogg:Ogg multimedia file:ogg:$
+4:application/ogg:Ogg multimedia file:ogg:$
+5:audio/ogg:Ogg Audio:oga:$
+6:audio/x-ogg:Ogg Audio:ogg:$
+7:video/ogg:Ogg Video:ogv:$
+8:video/x-ogg:Ogg Video:ogg:$
+9:application/annodex:Annodex exchange format:anx:$
+10:audio/annodex:Annodex Audio:axa:$
+11:video/annodex:Annodex Video:axv:$
+12:video/mpeg:MPEG video:mpg, mpeg, mpe:$
+13:audio/wav:WAV audio:wav:$
+14:audio/x-wav:WAV audio:wav:$
+15:audio/mpeg:MP3 audio:mp3:$
+16:application/x-nsv-vp3-mp3:NullSoft video:nsv:$
+17:video/flv:Flash video:flv:$
+18:video/webm:WebM video:webm:$
+19:application/x-totem-plugin:Totem Multimedia plugin::$
+20:audio/midi:MIDI audio:mid, midi:$
+libtotem-gmp-plugin.so:$
+/usr/lib/mozilla/plugins/libtotem-gmp-plugin.so:$
+:$
+1345744511000:0:5:$
+The <a href="http://www.gnome.org/projects/totem/">Totem</a> 3.0.1 plugin handles video and audio streams.:$
+Windows Media Player Plug-in 10 (compatible; Totem):$
+13
+0:application/x-mplayer2:AVI video:avi, wma, wmv:$
+1:video/x-ms-asf-plugin:ASF video:asf, wmv:$
+2:video/x-msvideo:AVI video:asf, wmv:$
+3:video/x-ms-asf:ASF video:asf:$
+4:video/x-ms-wmv:Windows Media video:wmv:$
+5:video/x-wmv:Windows Media video:wmv:$
+6:video/x-ms-wvx:Windows Media video:wmv:$
+7:video/x-ms-wm:Windows Media video:wmv:$
+8:video/x-ms-wmp:Windows Media video:wmv:$
+9:application/x-ms-wms:Windows Media video:wms:$
+10:application/x-ms-wmp:Windows Media video:wmp:$
+11:application/asx:Microsoft ASX playlist:asx:$
+12:audio/x-ms-wma:Windows Media audio:wma:$
+npwrapper.nppdf.so:$
+/usr/lib/mozilla/plugins/npwrapper.nppdf.so:$
+:$
+1339009299000:0:5:$
+The Adobe Reader plugin is used to enable viewing of PDF and FDF files from within the browser. :$
+Adobe Reader 9.4:$
+5
+0:application/pdf:Portable Document Format:pdf:$
+1:application/vnd.fdf:Acrobat Forms Data Format:fdf:$
+2:application/vnd.adobe.xfdf:XML Version of Acrobat Forms Data Format:xfdf:$
+3:application/vnd.adobe.xdp+xml:Acrobat XML Data Package:xdp:$
+4:application/vnd.adobe.xfd+xml:Adobe FormFlow99 Data File:xfd:$
+libcinnamon-browser-plugin.so:$
+/usr/lib/mozilla/plugins/libcinnamon-browser-plugin.so:$
+:$
+1337508586000:0:5:$
+This plugin provides integration with Cinnamon for live extension enabling and disabling. It can be used only by extensions.gnome.org:$
+Cinnamon Integration:$
+1
+0:application/x-cinnamon-integration:Cinnamon Integration Dummy Content-Type::$
+libflashplayer.so:$
+/opt/mint-flashplugin-11/libflashplayer.so:$
+:$
+1319015085000:0:5:$
+Shockwave Flash 11.0 r1:$
+Shockwave Flash:$
+2
+0:application/x-shockwave-flash:Shockwave Flash:swf:$
+1:application/futuresplash:FutureSplash Player:spl:$
+gecko-mediaplayer-qt.so:$
+/usr/lib/mozilla/plugins/gecko-mediaplayer-qt.so:$
+:$
+1313849897000:0:5:$
+<a href="http://kdekorte.googlepages.com/gecko-mediaplayer">Gecko Media Player</a> 1.0.4<br><br>Video Player Plug-in for QuickTime, RealPlayer and Windows Media Player streams using <a href="http://mplayerhq.hu">MPlayer</a>:$
+QuickTime Plug-in 7.6.9:$
+6
+0:video/quicktime:Quicktime:mov:$
+1:video/x-quicktime:Quicktime:mov:$
+2:image/x-quicktime:Quicktime:mov:$
+3:video/quicktime:Quicktime:mp4:$
+4:video/quicktime:Quicktime - Session Description Protocol:sdp:$
+5:application/x-quicktimeplayer:Quicktime:mov:$
+gecko-mediaplayer-wmp.so:$
+/usr/lib/mozilla/plugins/gecko-mediaplayer-wmp.so:$
+:$
+1313849897000:0:5:$
+<a href="http://kdekorte.googlepages.com/gecko-mediaplayer">Gecko Media Player</a> 1.0.4<br><br>Video Player Plug-in for QuickTime, RealPlayer and Windows Media Player streams using <a href="http://mplayerhq.hu">MPlayer</a>:$
+Windows Media Player Plug-in:$
+20
+0:application/asx:Media Files:*:$
+1:video/x-ms-asf-plugin:Media Files:*:$
+2:video/x-msvideo:AVI:avi,*:$
+3:video/msvideo:AVI:avi,*:$
+4:application/x-mplayer2:Media Files:*:$
+5:video/x-mplayer2:Media Files:*:$
+6:application/x-ms-wmv:Microsoft WMV video:wmv,*:$
+7:video/x-ms-asf:Media Files:asf,asx,*:$
+8:video/x-ms-asx:Media Files:asx,*:$
+9:video/x-ms-wm:Media Files:wm,*:$
+10:video/x-ms-wmv:Microsoft WMV video:wmv,*:$
+11:audio/x-ms-wmv:Windows Media:wmv,*:$
+12:video/x-ms-wmp:Windows Media:wmp,*:$
+13:application/x-ms-wmp:Windows Media:wmp,*:$
+14:video/x-ms-wvx:Windows Media:wvx,*:$
+15:audio/x-ms-wax:Windows Media:wax,*:$
+16:audio/x-ms-wma:Windows Media:wma,*:$
+17:application/x-drm-v2:Windows Media:asx,*:$
+18:audio/wav:Microsoft wave file:wav,*:$
+19:audio/x-wav:Microsoft wave file:wav,*:$
+gecko-mediaplayer-rm.so:$
+/usr/lib/mozilla/plugins/gecko-mediaplayer-rm.so:$
+:$
+1313849897000:0:5:$
+<a href="http://kdekorte.googlepages.com/gecko-mediaplayer">Gecko Media Player</a> 1.0.4<br><br>Video Player Plug-in for QuickTime, RealPlayer and Windows Media Player streams using <a href="http://mplayerhq.hu">MPlayer</a>:$
+RealPlayer 9:$
+7
+0:audio/x-pn-realaudio:RealAudio:ram,rm:$
+1:application/vnd.rn-realmedia:RealMedia:rm:$
+2:application/vnd.rn-realaudio:RealAudio:ra,ram:$
+3:video/vnd.rn-realvideo:RealVideo:rv:$
+4:audio/x-realaudio:RealAudio:ra:$
+5:audio/x-pn-realaudio-plugin:RealAudio:rpm:$
+6:application/smil:SMIL:smil:$
+gecko-mediaplayer.so:$
+/usr/lib/mozilla/plugins/gecko-mediaplayer.so:$
+:$
+1313849897000:0:5:$
+<a href="http://kdekorte.googlepages.com/gecko-mediaplayer">Gecko Media Player</a> 1.0.4<br><br>Video Player Plug-in for QuickTime, RealPlayer and Windows Media Player streams using <a href="http://mplayerhq.hu">MPlayer</a>:$
+mplayerplug-in is now gecko-mediaplayer 1.0.4:$
+46
+0:audio/x-mpegurl:MPEG Playlist:m3u:$
+1:video/mpeg:MPEG:mpg,mpeg:$
+2:audio/mpeg:MPEG:mpg,mpeg:$
+3:video/x-mpeg:MPEG:mpg,mpeg:$
+4:video/x-mpeg2:MPEG2:mpv2,mp2ve:$
+5:audio/mpeg:MPEG:mpg,mpeg:$
+6:audio/x-mpeg:MPEG:mpg,mpeg:$
+7:audio/mpeg2:MPEG audio:mp2:$
+8:audio/x-mpeg2:MPEG audio:mp2:$
+9:audio/mp4:MPEG 4 audio:mp4:$
+10:audio/x-mp4:MPEG 4 audio:mp4:$
+11:video/mp4:MPEG 4 Video:mp4:$
+12:video/x-m4v:MPEG 4 Video:m4v:$
+13:video/3gpp:MPEG 4 Video:mp4,3gp:$
+14:audio/mpeg3:MPEG audio:mp3:$
+15:audio/x-mpeg3:MPEG audio:mp3:$
+16:audio/x-mpegurl:MPEG url:m3u:$
+17:audio/mp3:MPEG audio:mp3:$
+18:application/x-ogg:Ogg Vorbis Media:ogg,oga,ogm:$
+19:application/ogg:Ogg Vorbis Media:ogg,oga,ogm:$
+20:audio/x-ogg:Ogg Vorbis Audio:ogg,oga:$
+21:audio/ogg:Ogg Vorbis Audio:ogg,oga:$
+22:video/x-ogg:Ogg Vorbis Video:ogg,ogm:$
+23:video/ogg:Ogg Vorbis Video:ogg,ogm:$
+24:application/x-vlc-plugin:VLC plug-in:vlc:$
+25:application/x-google-vlc-plugin:Google VLC plug-in::$
+26:audio/flac:FLAC Audio:flac:$
+27:audio/x-flac:FLAC Audio:flac:$
+28:video/fli:FLI animation:fli,flc:$
+29:video/x-fli:FLI animation:fli,flc:$
+30:video/x-flv:Flash Video:flv:$
+31:video/flv:Flash Video:flv:$
+32:video/vnd.vivo:VivoActive:viv,vivo:$
+33:audio/x-matroska:Matroska Audio:mka:$
+34:video/x-matroska:Matroska Video:mkv:$
+35:application/x-nsv-vp3-mp3:Nullsoft Streaming Video:nsv:$
+36:audio/x-mod:Soundtracker:mod:$
+37:audio/x-aiff:AIFF Audio:aif:$
+38:audio/basic:Basic Audio File:au,snd:$
+39:audio/x-basic:Basic Audio File:au,snd:$
+40:audio/x-scpls:Shoutcast Playlist:pls:$
+41:video/x-mng:Multiple-Image Network Graphics:mng:$
+42:audio/webm:WEBM audio File:webm:$
+43:audio/x-webm:WEBM audio File:webm:$
+44:video/webm:WEBM video File:webm:$
+45:video/x-webm:WEBM video File:webm:$
+gecko-mediaplayer-dvx.so:$
+/usr/lib/mozilla/plugins/gecko-mediaplayer-dvx.so:$
+:$
+1313849897000:0:5:$
+<a href="http://kdekorte.googlepages.com/gecko-mediaplayer">Gecko Media Player</a> 1.0.4<br><br>Video Player Plug-in for QuickTime, RealPlayer and Windows Media Player streams using <a href="http://mplayerhq.hu">MPlayer</a>:$
+DivX Browser Plug-In:$
+2
+0:video/divx:DivX Media Format:divx:$
+1:video/vnd.divx:DivX Media Format:divx:$
+
+[INVALID]

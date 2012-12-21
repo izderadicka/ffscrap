@@ -1,0 +1,11 @@
+{"selector":"root element selector (mand)",
+ "rowsRange": "[start], end], step] (opt)", 
+"row": {
+"selector":"row element selector (mand)", 
+"fields":[{
+ "selector":"field selector (mand)",
+ "name":"column name (mand)",
+ "type":"string|int|float|boolean", 
+ "source":"text|attr:xxx|input",   
+ "preprocess": "function_name (opt)"  }
+ ]}}

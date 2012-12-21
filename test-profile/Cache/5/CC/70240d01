@@ -1,0 +1,651 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="cs" lang="cs" >
+  <head>
+
+  <title>Kurzy devizového trhu - Česká národní banka</title>
+  <meta name="description" content="Kurzy devizového trhu" />
+  <meta name="keywords" content="Česká národní banka" />
+  <meta name="author" content="" />
+  
+
+	<link rel="stylesheet" type="text/css" href="/miranda2/export/system/modules/cz.cnb.www/resources/css/default.css" media="screen" />	
+	<style type="text/css" media="screen">
+		/*<![CDATA[ */
+		@import "/miranda2/export/system/modules/cz.cnb.www/resources/css/main.css";
+		/* ]]> */
+	</style>
+	<!--[if lte IE 6]>
+		<link rel="stylesheet" type="text/css" href="/miranda2/export/system/modules/cz.cnb.www/resources/css/main_ie.css" media="screen" />
+	<![endif]-->
+    
+
+	<link rel="stylesheet" type="text/css" href="/miranda2/export/system/modules/cz.cnb.www/resources/css/print.css" media="print" />
+	<link type="text/css" href="/system/modules/com.qbizm.miranda2r6.tabs/resources/css/jquery-ui-1.8.16.custom.css" rel="stylesheet" />
+	<script type="text/javascript" src="/miranda2/export/system/modules/cz.cnb.www/resources/js/table.js"></script>
+	<script type="text/javascript" src="/sys/js/jquery-1.4.2.min.js"></script>
+	<script type="text/javascript" src="/system/modules/com.qbizm.miranda2r6.tabs/resources/js/jquery-ui-1.8.16.custom.min.js"></script>		
+	
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17645368-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+	</script>
+<meta content="IE=8" http-equiv="X-UA-Compatible" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<meta http-equiv="Cache-control" content="no-cache"/>
+<meta http-equiv="pragma" content="no-cache"/>
+<meta http-equiv="expires" content="0"/>
+<meta http-equiv="imagetoolbar" content="no" />
+<meta name="robots" content="index,follow,all" />
+<meta name="googlebot" content="index,follow,archiv,snippet" />
+<meta http-equiv="Content-language" content="cs"/>
+
+<meta name="copyright" content="ČNB; e-mail: info@cnb.cz" />
+<meta name="dc.title" content="ČNB" />
+<meta name="dc.language" content="cs" />
+<meta name="geo.country" content="CZ" />
+<link rel="shortcut icon" href="/miranda2/export/system/modules/cz.cnb.www/resources/img/cnb.ico" />
+  </head>
+<body>
+
+  <div class="all" id="page">
+
+    <!-- HEADER => START -->
+    <div class="header">
+      <div class="header-line black hgt25">
+		<!-- Start of block -->
+		<div class="block" id="header-content">
+			<h1>Česká národní banka</h1>
+<!--[if !IE 6]><!-->
+			<div class="logo"><a href="/cs/index.html" title="Úvodní stránka"><img src="/miranda2/export/system/modules/cz.cnb.www/resources/img/main/cnb/png/logo_cnb.png" title="Úvodní stránka" alt="Úvodní stránka" /></a></div>
+<!--<![endif]-->
+<!--[if IE 6]>
+			<div class="logo"><a href="/cs/index.html" title="Úvodní stránka"><img src="/miranda2/export/system/modules/cz.cnb.www/resources/img/main/cnb/logo_cnb.jpg" title="Úvodní stránka" alt="Úvodní stránka" /></a></div>
+<![endif]-->
+
+			<div class="serviceMenu">
+				<ul>
+					<li><a href="/en/index.html" title="English">English</a></li>
+					<li><a href="/cs/obecne/menu-servisni/kontakty" title="Kontaktujte nás">Kontaktujte nás</a></li>
+					<li><a href="/cs/obecne/menu-servisni/faq" title="Časté dotazy">Časté dotazy</a></li>
+					<li><a href="/cs/obecne/menu-servisni/mapa-serveru.html" title="Mapa serveru">Mapa serveru</a></li>
+					<li><a href="/cs/obecne/menu-servisni/slovnik.html" title="Slovník">Slovník</a></li>
+				</ul>
+			</div>
+			<div class="clear-both"></div>
+			
+  			<div class="search">
+				<form method="get" action="/cs/obecne/rozsirene-vyhledavani.jsp">
+					<input type="hidden" name="cnb-search-area" value="czech-version" />
+					<fieldset>
+					    <input type="hidden" name="cnb-folder" value="/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/"/>
+						<input type="hidden" name="cnb-search-action-block" value="search" />
+						<label>Vyhledávání</label>
+						<input type="text" name="cnb-search-query" value="" class="input" />
+						<input type="submit" value="Hledat" id="cnb-search-action-block" class="submit" />
+						<br />
+						<a href="/cs/obecne/rozsirene-vyhledavani.jsp?cnb-folder=/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/&amp;cnb-search-area=czech-version" class="advanced-search">Rozšířené vyhledávání</a>
+					</fieldset>
+				</form>
+			</div>
+		</div>
+		<!-- End of block -->
+
+</div><hr class="print" /></div><div class="menu">
+		<!-- Start of block -->
+		<div class="block" id="main_menu">
+
+<ul id="nav" class="nav menu-main">
+
+<li style='width:85px;'>
+   <a href="/cs/o_cnb/" >O ČNB</a>
+</li>
+<li style='width:85px;'>
+   <a href="/cs/menova_politika/" >Měnová politika</a>
+</li>
+<li style='width:85px;'>
+   <a href="/cs/financni_stabilita/" >Finanční stabilita</a>
+</li>
+<li style='width:85px;'>
+   <a href="/cs/dohled_financni_trh/" >Dohled</a>
+</li>
+<li style='width:85px;'>
+   <a href="/cs/platidla/" >Bankovky<br />a mince</a>
+</li>
+<li style='width:85px;' class='menu-before-active' >
+   <a href="/cs/platebni_styk/" >Platební styk</a>
+</li>
+<li style='width:85px;' class='menu-active' >
+   <a href="/cs/financni_trhy/" >Finanční trhy</a>
+</li>
+<li style='width:85px;'>
+   <a href="/cs/statistika/" >Statistika</a>
+</li>
+<li style='width:85px;' class='menu-last' >
+   <a href="/cs/vyzkum/" >Ekonomický výzkum</a>
+</li>
+
+</ul>
+
+
+		</div>
+		<!-- End of block -->
+
+</div>          
+
+    <!-- HEADER => END -->
+
+    <!-- CONTENT => START -->
+    <div id="content">
+	
+	       <!-- LEFT SIDE => START -->
+       <div id="col-left" class="w170 fl-left">
+	
+		<!-- Start of block -->
+		<div class="block" id="document-menu">
+
+
+<ul>
+<li>   <a class="aktiv" href="/cs/financni_trhy/devizovy_trh/" >Devizový trh</a>
+</li>
+<li>   <a href="/cs/financni_trhy/penezni_trh/" >Peněžní trh</a>
+</li>
+<li>   <a href="/cs/financni_trhy/trh_statnich_dluhopisu/" >Trh státních dluhopisů</a>
+</li>
+<li>   <a href="/cs/financni_trhy/inflacni_ocekavani_ft/" >Inflační očekávání finančního trhu</a>
+</li>
+<li>   <a href="/cs/financni_trhy/skd/" >SKD - systém krátkodobých dluhopisů</a>
+</li>
+<li class="document-menu-last">   <a href="/cs/financni_trhy/pravni_predpisy/" >Předpisy k obchodům ČNB</a>
+</li>
+</ul>
+
+
+		</div>
+		<!-- End of block -->
+
+
+		<!-- Start of block -->
+		<div class="block" id="important-menu">
+
+
+
+
+
+
+	
+<ul>
+<li><a href="/cs/obecne/menu-dulezite/uredni-deska.html" title="Úřední deska">Úřední deska</a></li>
+<li><a href="/cs/obecne/menu-dulezite/vyberova-rizeni.html" title="Veřejné zakázky">Veřejné zakázky</a></li>
+<li><a href="/cs/obecne/menu-dulezite/volna_mista" title="Volná pracovní místa">Volná pracovní místa</a></li>
+</ul>
+
+  <div class="clear-both"></div>
+		</div>
+		<!-- End of block -->
+
+
+		<!-- Start of block -->
+		<div class="block" id="banner-menu">
+
+
+
+
+
+
+	
+<a href="/pf2013cz"><img src="/cs/obecne/menu-obrazky/000_pf2013_cz.png" alt="pf 2013" /></a>
+<a href="/cs/20_let_cnb/20_let.html"><img src="/cs/obecne/menu-obrazky/00_20_let_cnb.png" alt="20 let ČNB" /></a>
+<a href="/cnb/cnbprovsechny"><img src="/cs/obecne/menu-obrazky/01_cnbprovsechny.jpg" alt="ČNB pro všechny" /></a>
+<a href="/cs/verejnost/expozice_cnb/"><img src="/cs/obecne/menu-obrazky/02_expozice_cz.jpg" alt="Virtuální procházka Expozicí ČNB Lidé a peníze" /></a>
+<a href="/cs/platidla/animace.html"><img src="/cs/obecne/menu-obrazky/03_bankovky.jpg" alt="České bankovky - animace" /></a>
+<a href="/cs/platidla/aplikace_ceske_penize.html"><img src="/cs/obecne/menu-obrazky/banner_hp_ver_2.jpg" alt="Mobilní aplikace České peníze" /></a>
+
+  <div class="clear-both"></div>
+		</div>
+		<!-- End of block -->
+
+           
+       </div>                  
+       <!-- LEFT SIDE => END -->      
+
+       <!-- RIGHT SIDE => START -->
+       <div id="col-right" class="w170 fl-right">
+       
+		<!-- Start of block -->
+		<div class="block" id="favourite-links">
+
+
+
+
+
+
+
+
+
+<h2>Moje odkazy</h2>
+<ul>
+
+
+
+
+
+
+</ul>
+<form method="post">
+<input type="hidden" name="fav_address" value="%2Fcs%2Ffinancni_trhy%2Fdevizovy_trh%2Fkurzy_devizoveho_trhu%2Fdenni_kurz.jsp">
+<input type="hidden" name="fav_address_title" value="Kurzy+devizov%C3%A9ho+trhu">
+<input class="add_fav_address_button" type="submit" value="&nbsp;&nbsp;Přidat tuto stránku k mým odkazům">
+</form>
+
+		</div>
+		<!-- End of block -->
+
+
+		<!-- Start of block -->
+		<div class="block">
+
+		</div>
+		<!-- End of block -->
+
+
+		<!-- Start of block -->
+		<div class="block">
+
+
+<div id="faq-category"><a href='/cs/faq/faq-list.jsp?faq_category=Kurzy'>
+<h2>FAQ</h2>
+<p>Podívejte se na odpovědi k často kladeným otázkám tématu této stránky.</p></a></div>
+
+		</div>
+		<!-- End of block -->
+
+
+       </div>                  
+       <!-- RIGHT SIDE => END -->       
+       
+        <div id="col-main" class="inner-wrap w780 fl-left">
+        <div id="main-box">
+         <div id="main-content">
+          <div class="content-line">
+		<!-- Start of block -->
+		<div class="block">
+
+
+<div class="location-bar"><a id="top" />
+							<a href="/cs/" title="ČNB">ČNB</a> &gt; 
+							<a href="/cs/financni_trhy/" title="Finanční trhy">Finanční trhy</a> &gt; 
+							<a href="/cs/financni_trhy/devizovy_trh/" title="Devizový trh">Devizový trh</a> &gt; 
+							<a href="/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/" title="Kurzy devizového trhu">Kurzy devizového trhu</a> &gt; Kurzy devizového trhu</div>
+
+		</div>
+		<!-- End of block -->
+
+
+		<!-- Start of block -->
+		<div class="block">
+<h1 class="title">Kurzy devizového trhu</h1>
+
+
+		</div>
+		<!-- End of block -->
+
+
+         </div>
+
+
+
+		<!-- Start of block -->
+		<div class="block" id="content-main">
+
+
+
+		</div>
+		<!-- End of block -->
+
+
+
+
+
+<div class="noprint">
+	<div class="calendar_colA">
+<form action="" method="post" class="application-calendar">
+<div class='col-a'>
+<span class="month">prosinec 2012:</span>
+<select class="select-day" name="calendarDay">
+<option value="01">1
+<option value="02">2
+<option value="03">3
+<option value="04">4
+<option value="05">5
+<option value="06">6
+<option value="07">7
+<option value="08">8
+<option value="09">9
+<option value="10">10
+<option value="11">11
+<option value="12">12
+<option value="13">13
+<option value="14">14
+<option value="15">15
+<option value="16">16
+<option value="17">17
+<option value="18">18
+<option value="19">19
+<option value="20" selected>20
+<option value="21">21
+<option value="22">22
+<option value="23">23
+<option value="24">24
+<option value="25">25
+<option value="26">26
+<option value="27">27
+<option value="28">28
+<option value="29">29
+<option value="30">30
+<option value="31">31
+</select>
+<select class="select-month" name="calendarMonth">
+<option value="01">leden
+<option value="02">únor
+<option value="03">březen
+<option value="04">duben
+<option value="05">květen
+<option value="06">červen
+<option value="07">červenec
+<option value="08">srpen
+<option value="09">září
+<option value="10">říjen
+<option value="11">listopad
+<option value="12" selected>prosinec
+</select>
+<select class="select-year" name="calendarYear">
+<option value="2012" selected/>2012
+<option value="2011"/>2011
+<option value="2010"/>2010
+<option value="2009"/>2009
+<option value="2008"/>2008
+<option value="2007"/>2007
+<option value="2006"/>2006
+<option value="2005"/>2005
+<option value="2004"/>2004
+<option value="2003"/>2003
+<option value="2002"/>2002
+<option value="2001"/>2001
+<option value="2000"/>2000
+<option value="1999"/>1999
+<option value="1998"/>1998
+<option value="1997"/>1997
+<option value="1996"/>1996
+<option value="1995"/>1995
+<option value="1994"/>1994
+<option value="1993"/>1993
+<option value="1992"/>1992
+<option value="1991"/>1991
+</select>
+<span class="buttons">
+<INPUT class="submit" id="today" type="submit" value="Dnes" name="today"/>
+<INPUT class="submit" id="show" type="submit" value="Zobrazit" name="show"/>
+</span>
+</div>
+<div class='col-b'>
+<table>
+<tr><th>Po</th><th>Út</th><th>St</th><th>Čt</th><th>Pá</th><th>So</th><th>Ne</th></tr>
+<tr>
+<td><span>&nbsp;</span></td>
+<td><span>&nbsp;</span></td>
+<td><span>&nbsp;</span></td>
+<td><span>&nbsp;</span></td>
+<td><span>&nbsp;</span></td>
+<td class="calendarWeekend"><span>1</span></td>
+<td class="calendarWeekend"><span>2</span></td>
+</tr>
+<tr>
+<td><a href="?date=03.12.2012"><span>3</span></a></td>
+<td><a href="?date=04.12.2012"><span>4</span></a></td>
+<td><a href="?date=05.12.2012"><span>5</span></a></td>
+<td><a href="?date=06.12.2012"><span>6</span></a></td>
+<td><a href="?date=07.12.2012"><span>7</span></a></td>
+<td class="calendarWeekend"><span>8</span></td>
+<td class="calendarWeekend"><span>9</span></td>
+</tr>
+<tr>
+<td><a href="?date=10.12.2012"><span>10</span></a></td>
+<td><a href="?date=11.12.2012"><span>11</span></a></td>
+<td><a href="?date=12.12.2012"><span>12</span></a></td>
+<td><a href="?date=13.12.2012"><span>13</span></a></td>
+<td><a href="?date=14.12.2012"><span>14</span></a></td>
+<td class="calendarWeekend"><span>15</span></td>
+<td class="calendarWeekend"><span>16</span></td>
+</tr>
+<tr>
+<td><a href="?date=17.12.2012"><span>17</span></a></td>
+<td><a href="?date=18.12.2012"><span>18</span></a></td>
+<td><a href="?date=19.12.2012"><span>19</span></a></td>
+<td class="actualDate"><span>20</span></td>
+<td><span>21</span></td>
+<td class="calendarWeekend"><span>22</span></td>
+<td class="calendarWeekend"><span>23</span></td>
+</tr>
+<tr>
+<td><span>24</span></td>
+<td><span>25</span></td>
+<td><span>26</span></td>
+<td><span>27</span></td>
+<td><span>28</span></td>
+<td class="calendarWeekend"><span>29</span></td>
+<td class="calendarWeekend"><span>30</span></td>
+</tr>
+<tr>
+<td><span>31</span></td>
+<td><span>&nbsp;</span></td>
+<td><span>&nbsp;</span></td>
+<td><span>&nbsp;</span></td>
+<td><span>&nbsp;</span></td>
+<td><span>&nbsp;</span></td>
+<td><span>&nbsp;</span></td>
+</tr>
+</table>
+</div>
+</form>
+
+	</div>
+
+	    <div>
+    		<a href="vybrane_form.jsp" title="Vybrané devizové kurzy">Vybrané devizové kurzy</a>
+    		<br><br>
+    		<a href="grafy_form.jsp" title="Vybrané devizové kurzy - grafy">Vybrané devizové kurzy - grafy</a>
+    		<br><br>
+    		<a href="prumerne_form.jsp" title="Kurzy devizového trhu – průměry">Kurzy devizového trhu - průměry</a>
+    		<br><br>
+    		<a href="rok_form.jsp" title="Kurzy devizového trhu – roční historie">Kurzy devizového trhu - roční historie</a>
+    		<br><br>
+    		<a href="../kurzy_ostatnich_men/metodika.html" title="Kurzy ostatních měn">Kurzy ostatních měn</a>
+    		<br><br>
+    		<a href="/cs/faq/jakym_zpusobem_stanovuje_cnb_kurz.html" title="Metodika stanovení kurzu koruny">Metodika stanovení kurzu koruny</a>
+      </div>  		
+
+</div>
+
+
+<div class="cb"></div>
+
+<br class="noprint">
+<div class="highlighted" style="color:red; font-weight:bold;">Data pro aktuální pracovní den jsou k dispozici po 14:30</div><br>
+
+<h3 class="kurzy_tisk">Platnost od 20.12.2012 Pořadí: 248</h3>
+<table class="kurzy_tisk">
+<tr><th>země</th><th>měna</th><th>množství</th><th>kód</th><th>kurz</th></tr>
+<tr><td>Austrálie</td><td>dolar</td><td align="right">1</td><td>AUD</td><td align="right">19,968</td></tr><tr><td>Brazílie</td><td>real</td><td align="right">1</td><td>BRL</td><td align="right">9,239</td></tr><tr><td>Bulharsko</td><td>lev</td><td align="right">1</td><td>BGN</td><td align="right">12,897</td></tr><tr><td>Čína</td><td>renminbi</td><td align="right">1</td><td>CNY</td><td align="right">3,057</td></tr><tr><td>Dánsko</td><td>koruna</td><td align="right">1</td><td>DKK</td><td align="right">3,381</td></tr><tr><td>EMU</td><td>euro</td><td align="right">1</td><td>EUR</td><td align="right">25,225</td></tr><tr><td>Filipíny</td><td>peso</td><td align="right">100</td><td>PHP</td><td align="right">46,350</td></tr><tr><td>Hongkong</td><td>dolar</td><td align="right">1</td><td>HKD</td><td align="right">2,457</td></tr><tr><td>Chorvatsko</td><td>kuna</td><td align="right">1</td><td>HRK</td><td align="right">3,348</td></tr><tr><td>Indie</td><td>rupie</td><td align="right">100</td><td>INR</td><td align="right">34,715</td></tr><tr><td>Indonesie</td><td>rupie</td><td align="right">1000</td><td>IDR</td><td align="right">1,973</td></tr><tr><td>Izrael</td><td>šekel</td><td align="right">1</td><td>ILS</td><td align="right">5,078</td></tr><tr><td>Japonsko</td><td>jen</td><td align="right">100</td><td>JPY</td><td align="right">22,623</td></tr><tr><td>Jihoafrická rep.</td><td>rand</td><td align="right">1</td><td>ZAR</td><td align="right">2,237</td></tr><tr><td>Jižní Korea</td><td>won</td><td align="right">100</td><td>KRW</td><td align="right">1,772</td></tr><tr><td>Kanada</td><td>dolar</td><td align="right">1</td><td>CAD</td><td align="right">19,247</td></tr><tr><td>Litva</td><td>litas</td><td align="right">1</td><td>LTL</td><td align="right">7,306</td></tr><tr><td>Lotyšsko</td><td>lat</td><td align="right">1</td><td>LVL</td><td align="right">36,227</td></tr><tr><td>Maďarsko</td><td>forint</td><td align="right">100</td><td>HUF</td><td align="right">8,816</td></tr><tr><td>Malajsie</td><td>ringgit</td><td align="right">1</td><td>MYR</td><td align="right">6,232</td></tr><tr><td>Mexiko</td><td>peso</td><td align="right">1</td><td>MXN</td><td align="right">1,490</td></tr><tr><td>MMF</td><td>SDR</td><td align="right">1</td><td>XDR</td><td align="right">29,426</td></tr><tr><td>Norsko</td><td>koruna</td><td align="right">1</td><td>NOK</td><td align="right">3,425</td></tr><tr><td>Nový Zéland</td><td>dolar</td><td align="right">1</td><td>NZD</td><td align="right">15,884</td></tr><tr><td>Polsko</td><td>zlotý</td><td align="right">1</td><td>PLN</td><td align="right">6,194</td></tr><tr><td>Rumunsko</td><td>nové leu</td><td align="right">1</td><td>RON</td><td align="right">5,638</td></tr><tr><td>Rusko</td><td>rubl</td><td align="right">100</td><td>RUB</td><td align="right">62,024</td></tr><tr><td>Singapur</td><td>dolar</td><td align="right">1</td><td>SGD</td><td align="right">15,620</td></tr><tr><td>Švédsko</td><td>koruna</td><td align="right">1</td><td>SEK</td><td align="right">2,922</td></tr><tr><td>Švýcarsko</td><td>frank</td><td align="right">1</td><td>CHF</td><td align="right">20,884</td></tr><tr><td>Thajsko</td><td>baht</td><td align="right">100</td><td>THB</td><td align="right">62,186</td></tr><tr><td>Turecko</td><td>lira</td><td align="right">1</td><td>TRY</td><td align="right">10,659</td></tr><tr><td>USA</td><td>dolar</td><td align="right">1</td><td>USD</td><td align="right">19,043</td></tr><tr><td>Velká Británie</td><td>libra</td><td align="right">1</td><td>GBP</td><td align="right">30,967</td></tr>
+</table>  
+
+<br>
+S platností od 8.7.2009 Česká národní banka dočasně pozastavila stanovování kurzu islandské koruny.
+<br>
+<br class="noprint">
+<a class="noprint" href="denni_kurz.txt?date=20.12.2012" onclick="javascript:newWin('denni_kurz.txt?date=20.12.2012'); return false" title="Stažení v textovém formátu">Stažení v textovém formátu</a>
+
+
+
+
+
+		<!-- Start of block -->
+		<div class="block" id="content-main">
+
+
+
+		</div>
+		<!-- End of block -->
+
+
+  
+          
+          </div>
+         </div>
+       </div>       
+                                     
+    <div class="clear-both"></div>
+    
+</div>
+
+    <!-- FOOTER => START -->
+    <div class="footer">
+      <div class="footer-line" id="footer">
+		<!-- Start of block -->
+		<div class="block" id="footer-links">
+
+
+
+
+
+
+
+<div class="footer-nabidka">
+<h2>Často hledané</h2>
+<ul>
+    <li><a target="_self" href="/cnb/jerrs">Seznamy bank a dalších subjektů finančního trh</a></li>
+    <li><a target="_self" href="/cnb/jerrs">Seznamy pojišťovacích zprostředkovatelů a likvidátorů pojistných událostí</a></li>
+    <li><a target="_self" href="/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.jsp">Kurzy devizového trhu</a></li>
+    <li><a target="_self" href="/cs/o_cnb/organizacni_struktura/pobocky/index.html">Pobočky ČNB</a></li>
+    <li><a target="_self" href="/cs/platebni_styk/iban/">IBAN - mezinárodní číslo účtu</a></li>
+    <li><a target="_self" href="/cs/menova_politika/prognoza/index.html">Prognóza</a></li>
+    <li><a target="_self" href="/cs/faq/jak_se_vyvijela_diskontni_sazba_cnb.html">Historie diskontní sazby</a></li>
+    <li><a target="_self" href="/cs/faq/jak_se_vyvijela_lombardni_sazba_cnb.html">Historie lombardní sazby</a></li>
+    <li><a target="_self" href="/cs/faq/jak_se_vyvijela_dvoutydenni_repo_sazba_cnb.html">Historie repo sazby</a></li>
+    <li><a target="_self" href="/cnb/stat.STAT_DATA_ARAD.link_to_arad?p_kod=IRS&amp;p_lang=CS">Průměrné úrokové&nbsp; sazby komerčních bank 1993-2003</a></li>
+    <li><a target="_self" href="/cnb/stat.STAT_DATA_ARAD.link_to_arad?p_kod=MIR&amp;p_lang=CS">Průměrné úrokové sazby komerčních bank od roku 2004</a></li>
+    <li><a target="_self" href="/cs/financni_trhy/penezni_trh/pribor/index.html">PRIBOR/PRIBID</a></li>
+    <li><a target="_self" href="/cs/dohled_financni_trh/vykon_dohledu/pravomocna_rozhodnuti/index.html">Pravomocná rozhodnutí</a></li>
+    <li><a target="_self" href="/cs/dohled_financni_trh/vykon_dohledu/povolovaci_schvalovaci_rizeni/poj_zprostredkovatele_likvidatori/zkousky_odborne_zpusobilosti.html">Zkoušky pojišťovacích zprostředkovatelů</a></li>
+    <li><a target="_self" href="/cs/dohled_financni_trh/informace_zverejnovane_emitenty/">Centrální úložiště regulovaných informací</a></li>
+    <li><a href="/cs/platidla/bankovky/poskozene_bankovky/index.html" target="_self">Opotřebované a poškozené bankovky - příklady</a></li>
+    <li><a target="_self" href="/cs/dohled_financni_trh/centralni_registr_uveru/index.html">Centrální registr úvěrů</a></li>
+</ul>
+<p>&nbsp;</p>
+</div>
+
+<div class="footer-nabidka">
+<h2>Užitečné</h2>
+<ul>
+    <li><a href="/cs/obecne/rss.html">RSS</a></li>
+    <li><a href="/cnb/cnbprovsechny">ČNB pro všechny</a></li>
+    <li><a href="/cs/spotrebitel/index.html">Ochrana spotřebitele</a></li>
+    <li><a target="_self" href="/cs/o_cnb/zivotni_situace/poskozene_penize.html">Výměna poškozených peněz</a></li>
+    <li><a target="_self" href="/cs/o_cnb/zivotni_situace/neplatne_penize.html">Výměna neplatných peněz</a></li>
+    <li><a target="_self" href="/cs/o_cnb/zivotni_situace/padelane_penize.html">Padělané peníze</a></li>
+    <li><a href="/cs/platebni_styk/iban/" target="_self">IBAN</a></li>
+    <li><a href="/cs/platebni_styk/ucty_kody_bank/" target="_self">Kódy bank</a></li>
+    <li><a target="_self" href="/cs/o_cnb/mezinarodni_vztahy/index.html">EU, MMF a mezinárodní vztahy</a></li>
+    <li><a target="_self" href="/cs/o_cnb/zivotni_situace/registr_dlu.html">Registrace dlužníků</a></li>
+    <li><a href="/cs/dulezite/uredni_deska/index.html">Úřední deska</a></li>
+    <li><a target="_self" href="/cs/legislativa/vestnik/index.html">Věstník ČNB</a></li>
+    <li><a href="/cs/dulezite/verejne_zakazky/index.html">Veřejné zakázky</a></li>
+    <li><a href="/cs/verejnost/knihovna_cnb/index.html">Knihovna ČNB</a></li>
+    <li><a href="/cs/verejnost/expozice_cnb/index.html">Expozice ČNB</a></li>
+    <li><a href="/cs/o_cnb/archiv_cnb/index.html">Archiv ČNB</a></li>
+    <li><a href="/cs/verejnost/pro_media/audio_video/index.html">Audio, video</a></li>
+    <li><a href="/cs/o_cnb/publikace/index.html">Publikace</a></li>
+    <li><a href="/cs/dulezite/volna_mista/volna_mista" target="_self">Volná pracovní místa</a></li>
+    <li><a target="_self" href="/cs/obecne/avizo.html?">Zasílání avíza při aktualizaci stránky</a></li>
+</ul>
+</div>
+
+<div class="footer-nabidka">
+<h2>Média</h2>
+<ul>
+    <li><a href="/cs/obecne/rss.html">RSS</a></li>
+    <li><a target="_self" href="/cs/verejnost/pro_media/tiskove_zpravy_cnb/index.html">Tiskové zprávy</a></li>
+    <li><a target="_self" href="/cs/menova_politika/br_zapisy_z_jednani/index.html">Zápisy z bankovní rady</a></li>
+    <li><a target="_self" href="/cs/verejnost/pro_media/kontakty_media.html">Kontakty pro média</a></li>
+    <li><a target="_self" href="/cs/verejnost/pro_media/clanky_rozhovory/index.html">Autorské články</a></li>
+    <li><a target="_self" href="/cs/verejnost/pro_media/konference_projevy/index.html">Prezentace, vystoupení</a></li>
+    <li><a target="_self" href="/cs/verejnost/pro_media/audio_video/index.html">Audio, video </a></li>
+    <li><a target="_self" href="/cs/verejnost/pro_media/fotogalerie/index.html">Fotogalerie</a></li>
+    <li><a target="_self" href="/cs/verejnost/pro_media/harmonogramy/prima_linka/index.html">Přímá linka</a></li>
+</ul>
+<p>&nbsp;</p>
+</div>
+
+<div class="footer-nabidka last">
+<h2>Kontakty</h2>
+<p>Poštovní adresa pro celé ústředí:</p>
+<p>Na Příkopě 28<br />
+115 03 Praha 1<br />
+tel.: 224 411 111<br />
+fax.: 224 412 404<br />
+Zelená linka:<br />
+tel.: 800 160 170</p>
+<ul>
+    <li><a href="/cs/verejnost/kontakty.html">Kompletní kontakty</a></li>
+    <li><a href="/cs/verejnost/kontakty_elektronicka_posta.html" target="_self">Vracejí se vám e-maily z ČNB?</a></li>
+</ul>
+<p>&nbsp;</p>
+<p><a target="_self" href="/cs/o_cnb/organizacni_struktura/pobocky/index.html"><strong>Pobočky ČNB</strong></a></p>
+<p>pokladní hodiny poboček<br />
+pondělí - pátek<br />
+7.30 hod. - 11.30 hod. <br />
+12.30 hod. - 14.00 hod.<br />
+(Praha 7.30 hod. - 14.00 hod.)</p>
+</div>
+
+<p class="clear-both">&nbsp;</p>
+		</div>
+		<!-- End of block -->
+
+
+		<!-- Start of block -->
+		<div class="block">
+			<div class="copyright">
+				<ul>
+					<li>Copyright © Česká národní banka, 2003-2012 | Všechna práva vyhrazena</li>
+					<li><a href="/cs/obecne/menu-paticka/disclaimerCZ.html" title="Právní ujednání">Právní ujednání</a></li>
+					<li><a href="/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.jsp?cnb_css=false" title="Vypnout styly">Vypnout styly</a></li>
+				</ul></div>
+			<div class="serviceLinks">
+			<a href="/cs/obecne/jak-na-tisk.html" onclick="javascript:print();return false" title="Tisk">Tisk</a>
+			<a href="#top" title="Nahoru">Nahoru</a>
+			</div>
+			<div class="clear-both"></div>
+		</div>
+		<!-- End of block -->
+
+</div>          
+    </div>
+    <!-- FOOTER => END -->
+    
+   </div>
+   
+  </body>
+</html>
+

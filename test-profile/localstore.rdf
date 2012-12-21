@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<RDF:RDF xmlns:NC="http://home.netscape.com/NC-rdf#"
+         xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#main-window"
+                   screenY="0"
+                   sizemode="normal"
+                   height="848"
+                   width="1198"
+                   screenX="50" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#sidebar-title"
+                   value="" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#addon-bar"
+                   currentset="addonbar-closebutton,spring,status-bar,widget:jid1-QC86UtwBdeULQw@jetpack-ffscrap"
+                   collapsed="false" />
+  <RDF:Description RDF:about="about:config">
+    <NC:persist RDF:resource="about:config#prefCol"/>
+    <NC:persist RDF:resource="about:config#lockCol"/>
+    <NC:persist RDF:resource="about:config#typeCol"/>
+    <NC:persist RDF:resource="about:config#valueCol"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="about:config#lockCol"
+                   ordinal="3" />
+  <RDF:Description RDF:about="chrome://global/content/console.xul#JSConsoleWindow"
+                   width="640"
+                   height="480"
+                   sizemode="normal"
+                   screenX="0"
+                   screenY="24" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul">
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#main-window"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#addon-bar"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#sidebar-box"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#sidebar-title"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://global/content/console.xul">
+    <NC:persist RDF:resource="chrome://global/content/console.xul#JSConsoleWindow"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="about:config#valueCol"
+                   ordinal="7" />
+  <RDF:Description RDF:about="chrome://browser/content/preferences/preferences.xul">
+    <NC:persist RDF:resource="chrome://browser/content/preferences/preferences.xul#BrowserPreferences"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="about:config#typeCol"
+                   ordinal="5" />
+  <RDF:Description RDF:about="chrome://browser/content/preferences/preferences.xul#BrowserPreferences"
+                   lastSelected="paneMain"
+                   screenX="416"
+                   screenY="180" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#sidebar-box"
+                   sidebarcommand=""
+                   width=""
+                   src="" />
+  <RDF:Description RDF:about="about:config#prefCol"
+                   ordinal="1" />
+</RDF:RDF>
