@@ -61,5 +61,9 @@ $(function () {
 	
 	$('#tab-btn').click(function(){
 		send('tab')
+	});
+	
+	$('#copy-btn').click(function(){
+		send('copy')
 	})
 });
