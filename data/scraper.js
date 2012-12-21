@@ -55,6 +55,11 @@ var scraper=(function () {
 			else if (source==='input') {
 				return elements.val()
 			}
+			else if (source==="input_or_text") {
+				var input=$('input', elements);
+				if (input.length) return input.val()
+				else return elements.text();
+			}
 			
 			return elements.text()
 		}
@@ -84,7 +89,7 @@ var scraper=(function () {
 				  	return
 				  }
 					console.debug('Root is', root);
-					rows= $(script.row.selector, root);
+					rows= $(script.row.selector, root[0]);
 					if (!rows.length) {
 				  	self.port.emit('error', "No row elements found");
 				  	return
@@ -105,6 +110,7 @@ var scraper=(function () {
 					}
 			}
 			return scrap
+				
 		}
 	
 })();

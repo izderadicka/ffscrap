@@ -6,6 +6,6 @@
  "selector":"field selector (mand)",
  "name":"column name (mand)",
  "type":"string|int|float|boolean", 
- "source":"text|attr:xxx|input",   
+ "source":"text|attr:xxx|input|input_or_text",   
  "preprocess": "function_name (opt)"  }
  ]}}
