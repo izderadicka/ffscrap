@@ -33,7 +33,7 @@ var scraper=(function () {
 			
 			switch (type ) {
 				case "int": {
-					val=parseInt(val);
+					val=parseInt(val, 10);
 				} break;
 				case "float": {
 					val=parseFloat(val)
