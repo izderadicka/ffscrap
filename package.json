@@ -2,7 +2,7 @@
     "name": "ffscrap", 
     "license": "MPL 2.0, GPL v3", 
     "author": "Ivan Zderadicka", 
-    "version": "0.1", 
+    "version": "0.1.1", 
     "fullName": "ffscrap", 
     "id": "jid1-QC86UtwBdeULQw", 
     "description": "Get easily tabular data (in csv format) from any page using very simple script to define what data to scrap from a page",
