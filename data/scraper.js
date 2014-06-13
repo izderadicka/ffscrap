@@ -56,7 +56,7 @@ var scraper=(function () {
 				return elements.val()
 			}
 			else if (source==="input_or_text") {
-				var input=$('input', elements);
+				var input=$('input[type!="hidden"]', elements);
 				if (input.length) return input.val()
 				else return elements.text();
 			}
