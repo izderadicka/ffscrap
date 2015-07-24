@@ -15,4 +15,5 @@ Dual licensed under MPL 2.0, GPL v3
 
 Version History:
 
-0.1 Initial version - for FF 17
+0.1 Initial version - for FF 17  
+0.1.3 Updated for FF 38+  - thanks to [Zacc](https://github.com/zacc/ffscrap/tree/remove_widget)
