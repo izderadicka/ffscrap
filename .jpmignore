@@ -1,0 +1,7 @@
+test-profile
+*~
+.*ignore
+*.xpi
+.git
+.project
+test
