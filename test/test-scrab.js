@@ -1,5 +1,5 @@
-var data=require('self').data;
-var tabs=require('tabs');
+var data=require('sdk/self').data;
+var tabs=require('sdk/tabs');
 
 
 
@@ -58,17 +58,18 @@ var specErr2= '{"seleptor":"table", "rowsRange": 1, "row":{"selector":"tr", "fie
    			 
 var testData=[{"string":"aaa\"a", "int":1, "float":1.2, "boolean":true, "int in input":2, "href":"http://neco", "fuzzy float":3.2}];
 
-exports["notest scrap"] = function(assert, done) {
+exports["test scrap"] = function(assert, done) {
 	tabs.on('ready', function(tab) {
 		if (tab.title!=="TEST1") return;
 		console.log('Tab open', tab.url)
 		var worker=tab.attach({
-			contentScriptFile: [ data.url('jquery-1.8.3.min.js'),data.url('scraper.js')],
+			contentScriptFile: [ data.url('jquery-2.1.4.min.js'),data.url('scraper.js')],
 			contentScript: 'self.on("message", function(script) { var res=scraper(script)(document); self.postMessage(res)});',
 			onMessage: function(data) {
 				console.log('Data received', tab.url);
 				assert.ok(data, 'Has some data');
 				assert.equal(data.length, 34, "Has 34 rows")
+				tab.close()
 				done()
 			}
 		});
@@ -85,12 +86,13 @@ exports["test scrap2"] = function(assert, done) {
 		if (tab.title!=="TEST2") return;
 		console.log('Tab open', tab.url)
 		var worker=tab.attach({
-			contentScriptFile: [ data.url('jquery-1.8.3.min.js'),data.url('scraper.js')],
+			contentScriptFile: [ data.url('jquery-2.1.4.min.js'),data.url('scraper.js')],
 			contentScript: 'self.on("message", function(script) { var res=scraper(script)(document); self.postMessage(res)});',
 			onMessage: function(data) {
 				console.log('Data received', tab.url);
 				assert.ok(data, 'Has some data');
 				assert.equal(data.length, 3, "Has 3 rows")
+				tab.close()
 				done()
 			}
 		});
@@ -102,10 +104,10 @@ exports["test scrap2"] = function(assert, done) {
 	
 }
 
-var formatter=require('format').formatter;
+var formatter=require('lib/format').formatter;
 
 exports.testCSV= function (assert) {
-	var formatter=require('format').formatter;
+	var formatter=require('lib/format').formatter;
 	assert.ok(formatter, "Export formatter is defined")
 	var res=formatter(testData, spec2).csv();
 	console.log("Result CSV",res)
@@ -114,7 +116,7 @@ exports.testCSV= function (assert) {
 	assert.ok(res, "Resource not null")
 }
 
-var Scraper=require('scraper').Scraper;
+var Scraper=require('lib/scraper').Scraper;
 exports.testScraper= function(assert) {
 	var s=new Scraper({script:specErr1});
 	var errors= s.testScript();
@@ -140,4 +142,4 @@ exports.testScraper= function(assert) {
 	assert.equal(errors.split('\r\n').length-1, 2)
 }
 
-require("test").run(exports);
+require("sdk/test").run(exports);

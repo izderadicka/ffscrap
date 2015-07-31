@@ -4,4 +4,4 @@ test-profile
 *.xpi
 .git
 .project
-test
+/test
