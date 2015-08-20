@@ -73,6 +73,9 @@ var scraper=(function () {
 			//Removes everything but digits and decimal mark dot
 			numberNormalize: function(val) {
 				return val.replace(/[^\d\.]/g, '')
+			},
+			trim: function(val) {
+				return val.trim()
 			}
 		}
 	
